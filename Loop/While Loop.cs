@@ -9,6 +9,7 @@ class Program
         int number = 1;
 
         // The loop keeps running WHILE number is 20 or less
+       // The while loop will check if the condition is TRUE before running the code inside the loop
         while (number <= 20)
         {
             Console.WriteLine("Number: " + number);
